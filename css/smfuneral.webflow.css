@@ -3145,10 +3145,6 @@ figcaption {
     grid-template-columns: 1fr;
   }
 
-  .contact14_map-wrapper {
-    height: 25rem;
-  }
-
   .cta1_component {
     grid-row-gap: 3rem;
   }
