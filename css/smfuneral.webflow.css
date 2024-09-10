@@ -2288,6 +2288,14 @@ figcaption {
   display: flex;
 }
 
+.testimonial7_arrow.hide-mobile-landscape {
+  transition: background-color .2s;
+}
+
+.testimonial7_arrow.hide-mobile-landscape:hover {
+  background-color: #2f2f2e54;
+}
+
 .testimonial7_arrow-icon {
   color: var(--base-color-neutral--black);
   flex-direction: column;
