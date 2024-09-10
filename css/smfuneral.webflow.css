@@ -3462,7 +3462,15 @@ figcaption {
   justify-self: end;
 }
 
-#w-node-_6f48bdf5-8d14-d180-2471-c73ea33f76a0-48174e16, #w-node-_6f48bdf5-8d14-d180-2471-c73ea33f76b3-48174e16, #w-node-fa9b556a-122e-15f1-f309-afdc2e962f31-48174e16 {
+#w-node-_6f48bdf5-8d14-d180-2471-c73ea33f76a0-48174e16, #w-node-_6f48bdf5-8d14-d180-2471-c73ea33f76b3-48174e16 {
+  align-self: start;
+}
+
+#w-node-_18dbe2c3-1cf6-b02c-ce6b-ef0e3349c871-48174e16 {
+  justify-self: end;
+}
+
+#w-node-fa9b556a-122e-15f1-f309-afdc2e962f31-48174e16 {
   align-self: start;
 }
 
