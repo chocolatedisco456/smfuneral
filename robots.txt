@@ -3,9 +3,12 @@ Disallow: /401.html
 Disallow: /404.html
 Disallow: /style-guide.html
 
+Allow: /js/
+Allow: /css/
+
+Allow: /images/favicon.png
+
 User-agent: Yeti
 Allow: /
-
-Allow: /js/
 
 Sitemap: https://www.smfuneral.co.kr/sitemap.xml 
