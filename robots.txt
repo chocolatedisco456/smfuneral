@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /401.html
+Disallow: /404.html
+Disallow: /style-guide.html
+
+User-agent: Yeti
+Allow: /
+
+Allow: /js/
+
+Sitemap: https://www.smfuneral.co.kr/sitemap.xml 
