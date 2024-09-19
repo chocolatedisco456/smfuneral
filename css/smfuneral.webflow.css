@@ -3004,7 +3004,7 @@ figcaption {
 
   .button {
     font-size: 1rem;
-    display: none;
+    display: block;
   }
 
   .button.w--current {
@@ -3372,7 +3372,7 @@ figcaption {
   }
 
   .button {
-    display: none;
+    display: block;
   }
 
   .text-weight-xbold {
