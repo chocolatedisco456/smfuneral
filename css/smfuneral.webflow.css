@@ -3372,7 +3372,7 @@ figcaption {
   }
 
   .button {
-    display: block;
+    display: none;
   }
 
   .text-weight-xbold {
