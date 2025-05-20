@@ -1,3 +1,43 @@
+@font-face {
+  font-family: Nanumgothic;
+  src: url('../fonts/NanumGothic-Regular.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Nanumgothic;
+  src: url('../fonts/NanumGothic-Bold.ttf') format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 행복고흥b;
+  src: url('../fonts/행복고흥B.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 행복고흥m;
+  src: url('../fonts/행복고흥M.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Nanumgothic;
+  src: url('../fonts/NanumGothic-ExtraBold.ttf') format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --background-color--background-primary: var(--base-color-neutral--white);
   --base-color-brand--off-black: #2f2f2e;
@@ -719,7 +759,7 @@ figcaption {
 }
 
 .button {
-  border: 1px solid var(--base-color-brand--off-black);
+  border: 2px solid var(--base-color-brand--off-black);
   background-color: var(--base-color-brand--off-black);
   color: var(--base-color-neutral--white);
   text-align: center;
@@ -732,7 +772,7 @@ figcaption {
 }
 
 .button:hover {
-  border-width: 1px;
+  border-width: 2px;
   border-color: var(--base-color-brand--off-black);
   background-color: var(--base-color-brand--white);
   color: var(--base-color-brand--off-black);
